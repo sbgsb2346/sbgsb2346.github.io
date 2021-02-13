@@ -11,11 +11,13 @@
 
   let texts = [
     'MY DEAR', 'LOOK UP AT', 'THE STARRY SKY', 'ARE YOU', 'LOOKING AT',
-    'THE SAME STAR', 'WITH ME ?', 'HAPPY', 'VALENTINE\'S', 'DAY', 'I MISS YOU',
+    'THE SAME STAR', 'WITH ME ?',
+    'ANYWAY',
+    'HAPPY', 'VALENTINE\'S', 'DAY', 'I MISS YOU',
     '...',
     '真没了', '再多点也没了', '哈哈哈哈哈', '还点么', '那就',
     '祝今天开心', '祝天天开心', '哈哈哈哈哈哈', '虽然', '内容没诚意', '但是', '形式满分吧？',
-    '期待下一次见面', ': )'
+    '期待下一次见面', ': )', '❤️'
   ]
 
   let canvas,
